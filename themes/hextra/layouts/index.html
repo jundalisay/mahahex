@@ -1,0 +1,63 @@
+{{ define "main" }}
+
+  <div class='mx-auto flex {{ partial "utils/page-width" . }}'>
+    {{ partial "sidebar.html" (dict "context" . "disableSidebar" true "displayPlaceholder" true) }}
+    {{ partial "toc.html" . }}
+
+    <section class="" data-sal="fade">
+      <br>
+      <div class="px-4 mx-auto text-center lg:pt-16 lg:px-12" >
+        <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl lg:text-6xl dark:text-white">{{ .Params.title }}</h1>
+        <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">{{ .Params.heading }}</p>
+
+        <div class="aspect-w-16 aspect-h-9">
+          <iframe class="aspect-video" width="640" height="360" frameborder="0" src="https://www.youtube.com/embed/{{ if .Params.youtube }}{{ .Params.youtube }}{{ else }}5fL2_ZcRgNQ{{ end }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+
+      </div>
+    </section>
+  </div>
+
+  <section class="mx-auto text-center p-6">
+    <h3 class="text-2xl font-bold tracking-tight mb-6">{{ .Params.sub }}</h1>
+    {{ with .Params.cards }}
+      {{ partial "cards.html" . }}          
+    {{ end }}
+  </section>
+
+
+  {{ with .Params.tricon1 }}
+    {{ partial "tricon.html" . }}          
+  {{ end }}
+
+  {{ with .Params.articles1 }}
+    {{ partial "articles.html" . }}          
+  {{ end }}
+
+  {{ with .Params.tricon2 }}
+    {{ partial "tricon.html" . }}          
+  {{ end }}
+
+  {{ with .Params.articles2 }}
+    {{ partial "articles.html" . }}    
+  {{ end }}
+
+  {{ with .Params.tricon3 }}
+    {{ partial "tricon.html" . }}          
+  {{ end }}
+
+  {{ with .Params.articles3 }}
+    {{ partial "articles.html" . }}          
+  {{ end }}
+
+  {{ with .Params.tricon4 }}
+    {{ partial "tricon.html" . }}          
+  {{ end }}
+
+  {{ with .Params.articles4 }}
+    {{ partial "articles.html" . }}          
+  {{ end }}
+
+  </div>
+{{ end }}
+

@@ -1,0 +1,12 @@
+<div class="columns is-multiline is-mobile my-5">
+  {{ range .items }}    
+  <div class="column is-6-desktop is-12-touch embed-responsive zoom-xs" data-sal="zoom-in">
+    <a href="{{ .url }}">
+      <img src="{{ .img }}" alt="" >
+      <p class="embed-responsive-item title is-1 p-6 mb-6 has-text-white" >{{ .title }}</p>
+      <p class="subtitle is-3 px-6 has-text-light has-background-black" style="position: absolute; bottom: 1px !important">{{ .subtitle }}</p>
+    </a>
+  </div>
+  {{ end }}
+</div>
+
