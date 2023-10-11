@@ -30,7 +30,7 @@ Maharlika was not a stranger to disasters both man-made or natural. Earthquakes 
 
 There were also man-made disasters as rival tribes who came to destroy entire villages. 
 
-{{< quote >}}
+{{< q >}}
 In one of the junks we captured was the son of the king of Luzon. He was the captain-general of the king of Borneo, and came with those junks from a large city named Laoe, located at the end of Borneo toward Java Major. He had destroyed and sacked that city because it refused to obey the king or Borneo, but the king of Java Major instead.
 <cite>Pigafetta</cite>
 {{< /q >}}
@@ -42,7 +42,7 @@ To solve such issues, Maharlikans had the following policies:
 
 ## Abortion to reduce the strain on the food supply and economy, since the society had low productivity
 
-{{< quote >}}
+{{< q >}}
 Abortions were a common form of family planning, practiced.. <!-- by ranking ladies to limit their lineage and preserve their heritage, or by others --> because of poverty or poor prospects for their children.
 <cite>Barangay, Willam Henry Scott</cite>
 {{< /q >}}
@@ -50,7 +50,7 @@ Abortions were a common form of family planning, practiced.. <!-- by ranking lad
 
 ### Accurate predictions
 
-{{< quote >}}
+{{< q >}}
 Some old men were renowned for the accuracy of their weather forecasts. They predicted storms, their severity, and the flooding that would follow, three or four days in advance, or even a week, by judging from cloud formations and the color of the skies, sun, and moon.<br>Dark clouds meant a squally storm (onos), but leaden skies meant a real typhoon (bagyo). The new moon of October was considered the most likely time for a typhoon; conversely, typhoons were said to be rare during the waning of the same moon. These men believed, too, that unless a typhoon ended with winds from the south, it was sure to be followed by another one.
 <cite>Barangay, Willam Henry Scott</cite>
 {{< /q >}}
@@ -59,7 +59,7 @@ Some old men were renowned for the accuracy of their weather forecasts. They pre
 
 ### Tight communal ties 
 
-{{< quote >}}
+{{< q >}}
 Indeed, blood relationship, either real of fictive, was considered essential for personal security. Men became ritual brothers, sandugo, by imbibing a few drops of each other’s blood in wine or betel nut, swearing to support and defend one another until death.
 <cite>Barangay, Willam Henry Scott</cite>
 {{< /q >}}
@@ -67,7 +67,7 @@ Indeed, blood relationship, either real of fictive, was considered essential for
 
 ### Large boats to be able to move to other places either as refugees or colonists
 
-{{< quote >}}
+{{< q >}}
 With the exception of sparse populations inhabiting the interior mountain ranges, all 16th century Filipinos lived on the seacoast or the banks of navigable lakes and streams. Their only means of transportation were boats.
 <cite>Barangay, Willam Henry Scott</cite>
 {{< /q >}}

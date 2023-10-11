@@ -11,19 +11,19 @@ icon: /icons/sun.png
 
 Maharlika was no stranger to natural disasters such as typhoons and earthquakes. This was proven in the practices and myths of the country:
 
-{{< quote >}}
+{{< q >}}
 The first man came out of the one bamboo and the first woman from the other. These, they say, married with the approval of Linog, which is the earthquake,
 <cite>Barangay, William Henry Scott</cite>
 {{< /q >}}
 
-{{< quote >}}
+{{< q >}}
 Some old men were renowned for the accuracy of their weather forecasts. They predicted storms, their severity, and the flooding that would follow, three or four days in advance, or even a week, by judging from cloud formations and the color of the skies, sun, and moon.<!-- <br>Dark clouds meant a squally storm (onos), but leaden skies meant a real typhoon (bagyo). The new moon of October was considered the most likely time for a typhoon; conversely, typhoons were said to be rare during the waning of the same moon. These men believed, too, that unless a typhoon ended with winds from the south, it was sure to be followed by another one. -->
 <cite>Barangay, Willam Henry Scott</cite>
 {{< /q >}}
 
 Moreover, the natural disasters were worsened by man-made disasters like piracy and slave-trading:
 
-{{< quote >}}
+{{< q >}}
 The Spaniards considered any such venturing datus as simple pirates. They defined 'mangayaw' itself as piracy—armed robbery at sea.
 <cite>Barangay, Willam Henry Scott</cite>
 {{< /q >}}
@@ -41,13 +41,13 @@ Many large civilizations had difficult environments similar to Maharlika:
 
 Like Maharlika, such countries did not have gold mines and so transacted with barter. 
 
-{{< quote >}}
+{{< q >}}
 Raja Calanao [of Zamboanga del Norte] showed me certain large valleys, making me a sign that the gold there was as abundant as the hairs of their heads. But they have no iron with which to dig it, and they do not dare to go to the trouble [to get it].
 <cite>Pigafetta</cite>
 {{< /q >}}
 
 
-{{< quote >}}
+{{< q >}}
 The Maharlikan traders assemble in crowds and carry the goods away with them in baskets. Even the foreign merchants do not know the Maharlikan traders and cannot distinguish them, there will be no loss. The native traders will bring those goods to other islands for barter. It will take 8-9 months for them to return. They then repay the foreign merchants with what they had obtained for the goods.
 <cite>Simplified Chun Fan Chi</cite>
 {{< /q >}}

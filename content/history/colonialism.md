@@ -18,7 +18,7 @@ In the previous article, we explained that Lapu Lapu, the first national hero of
 
 The colonizers came with advanced technologies and useful goods that were coveted by the natives. For example, Pigafetta writes that the Spanish explorers to the Philippines exchanged their tools for much-needed food:
 
-{{< quote >}}
+{{< q >}}
 <p>One of the natives brought us about a porringer full of rice and also 10 bananas fastened together to barter them for a knife which at the most was worth 3 catrini. Magellan saw that that native cared only for knives, called him to look at other things. He put his hand in his purse and wished to give him one real for those things, but the native refused it. Magellan showed him a ducado but he would not accept that either. Finally, Magellan tried to give him a doppione worth two ducados, but he would take only a knife, so Magellan gave him one.</p>
 <cite>Pigafetta</cite>
 {{< /q >}}
@@ -29,7 +29,7 @@ The colonizers came with advanced technologies and useful goods that were covete
 
 They also introduced European medicines which were able to cure a native who was terminally ill:
 
-{{< quote >}}
+{{< q >}}
 <p>Jovan Carvaio and the constable returned. They told us that they saw the man who had been cured by a miracle.</p>
 <cite>Simplified Pigafetta</cite>
 {{< /q >}}
@@ -39,7 +39,7 @@ They also introduced European medicines which were able to cure a native who was
 
 Lastly, alliances with the Europeans were the key for the native opposition to get in power against the native ruling class.
 
-{{< quote >}}
+{{< q >}}
 <p>Then the Moro merchant said to the king "Cata raia chita" that is to say, “Look well, sire.” “These men are the same who have conquered Calicut, Malaca, and all India. If they are treated well, they will give good treatment, but if they are treated evil, evil and worse treatment, as they have done to Calicut and Malaca.” The interpreter understood it all and told the king that the Spanish king was more powerful than the king of Portugal, that he was the king of Spain and emperor of all the Christians, and that if the king did not care to be his friend he would next time send so many men that they would destroy him.</p>
 <cite>Simplified Pigafetta</cite>
 {{< /q >}}
@@ -49,7 +49,7 @@ Lastly, alliances with the Europeans were the key for the native opposition to g
 
 Other than the Indians and Chinese, most native countries were not only ignorant of science and technology, but also lazy and unproductive. 
 
-{{< quote >}}
+{{< q >}}
 <p>But Raha Colambu.. asked Magellan to wait two days until he should have his rice harvested, and other trifles attended to and to send him some men to help him, so that it might be done faster.. Magellan sent him some men, but the kings ate and drank so much that they slept all day. Some said to excuse them that they were slightly sick. Our men did nothing on that day, but they worked the next two days.</p>
 <cite>Pigafetta</cite>
 {{< /q >}}

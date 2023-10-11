@@ -242,7 +242,7 @@ The ignorance of the correct policies is only criminal if being stupid is a crim
 
 Even Pigafetta noticed the lack of intelligence of the ruling class in Cebu:
 
-{{< quote >}}
+{{< q >}}
 <p>Raha Humabon [had] a Moro merchant from Thailand who had remained to trade the gold and slaves.
 <br><br>
 Tuesday morning, Raha Colambu came to the ships with the Moro merchant. He saluted Magellan in behalf of Humabon. Magellan told the Moro not to be frightened for our arms were soft toward our friends and harsh toward our enemies. Magellan told it to the Moro as he seemed more intelligent than the others, and might tell it to Humabon.</p> 

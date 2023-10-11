@@ -66,13 +66,13 @@ Ginger* | Spices
 > *Ginger is the spice that seems to be common in both Maharlikan and Filipino food
 
 
-{{< quote >}}
+{{< q >}}
 Raha Colambu, was also the king of Butuan and Calagan. He gave Magellan a large bar of gold and a basketful of ginger
 <cite>Pigafetta</cite>
 {{< /q >}}
 
 
-{{< quote >}}
+{{< q >}}
 Each tray contained 12 porcelain dishes full of veal, capons, chickens, peacocks, and other animals, and fish. We supped on the ground upon a palm mat from 32 different kinds of meat besides the fish and other things.
 <cite>Pigafetta</cite>
 {{< /q >}}
@@ -84,7 +84,7 @@ As you can see, Maharlikan food focus on local rootcrops, vegetables, spices, an
 
 The best example of Maharlikan food is sinigang, which is a sour dish using fish, chicken, or vegetables. This is much healthier than adobo and is easier to digest. It emphasizes the **Maharlikan sourness** * as opposed to Indian hotness, or Chinese saltiness.  
 
-{{< quote >}}
+{{< q >}}
 When they wish to make vinegar, they allow only the coconut water to putrefy, and then place it in the sun. A vinegar results like that made from white wine.
 <cite>Pigafetta</cite>
 {{< /q >}}

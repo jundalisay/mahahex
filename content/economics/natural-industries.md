@@ -23,7 +23,7 @@ From a survey of Maharlikan industry before Legazpi came, we can list the indust
 
 ### Call centers
 
-{{< quote >}}
+{{< q >}}
 <p>Those people became very familiar with us. They told us many things, their names and those of some of the islands that could be seen from that place. Their own island was Sulu, not very large. They were very pleasant and conversable.</p>
 <cite>Pigafetta</cite>
 {{< /q >}}
@@ -31,7 +31,7 @@ From a survey of Maharlikan industry before Legazpi came, we can list the indust
 
 ### Hospitality 
 
-{{< quote >}}
+{{< q >}}
 <p>When we had eaten, the king had a reed mat and another of palm leaves, and a leaf pillow brought in for me to sleep on. The king and his two women went to sleep in a separate place, while I slept with one of his chiefs.</p>
 <cite>Pigafetta</cite>
 {{< /q >}}
@@ -39,7 +39,7 @@ From a survey of Maharlikan industry before Legazpi came, we can list the indust
 
 ### Tourism
 
-{{< quote >}}
+{{< q >}}
 <p>They offered heir pilots to show us the way. Magellan asked the kings for the pilots for he intended to depart the following morning, and [said] that he would treat them as if they were the kings themselves, and would leave one of us as hostage. Raha Colambu.. said that he intended to act as our pilot himself.</p>
 <cite>Pigafetta</cite>
 {{< /q >}}
@@ -47,7 +47,7 @@ From a survey of Maharlikan industry before Legazpi came, we can list the indust
 
 ### Music and Entertainment
 
-{{< quote >}}
+{{< q >}}
 <p>They played so harmoniously that one would believe they possessed good musical sense. Those girls were very beautiful and almost as white as our girls and as large.</p>
 <cite>Pigafetta</cite>
 {{< /q >}}
@@ -55,7 +55,7 @@ From a survey of Maharlikan industry before Legazpi came, we can list the indust
 
 ### Food Service 
 
-{{< quote >}}
+{{< q >}}
 <p>Then two platters were brought in (one with fish and its sauce, and the other with rice), so that we might eat with the prince. My companion became intoxicated as a consequence of so much drinking and eating.</p>
 <cite>Pigafetta</cite>
 {{< /q >}}
@@ -67,7 +67,7 @@ From a survey of Maharlikan industry before Legazpi came, we can list the indust
 
 ### Crops and Livestock
 
-{{< quote >}}
+{{< q >}}
 <p>Palawan has rice, ginger, swine, goats, fowls, bananas, cocoanuts, camotes [batate], sugarcane, and roots resembling turnips in taste. We called that land the land of promise, because we suffered great hunger before we found it.</p>
 <cite>Pigafetta</cite>
 {{< /q >}}
@@ -88,7 +88,7 @@ The Duterte government seems to have pushed for agriculture the most. It did not
 
 ### Mining
 
-{{< quote >}}
+{{< q >}}
 <p>They showed me certain large valleys, making me a sign that the gold there was as abundant as the hairs of their heads, but they have no iron with which to dig it, and they do not dare to go to the trouble [to get it].</p>
 <cite>Pigafetta</cite>
 {{< /q >}}
@@ -96,7 +96,7 @@ The Duterte government seems to have pushed for agriculture the most. It did not
 
 ### Sports (Boxing, Archery )
 
-{{< quote >}}
+{{< q >}}
 <p>At a cape of [Mindanao] and near a river, are found shaggy men who are exceedingly great fighters and archers. They use swords one palmo in length, and eat only raw human hearts with the juice of oranges or lemons. Those shaggy people are called Benaian.</p>
 <cite>Pigafetta</cite>
 {{< /q >}}
@@ -106,7 +106,7 @@ The Duterte government seems to have pushed for agriculture the most. It did not
 
 ### Household Goods
 
-{{< quote >}}
+{{< q >}}
 <p>I bowed to the queen, and sat down beside her. She was making a sleeping mat of palm leaves.</p>
 <cite>Pigafetta</cite>
 {{< /q >}}
@@ -115,7 +115,7 @@ The Duterte government seems to have pushed for agriculture the most. It did not
 ### Shipbuilding
 
 
-{{< quote >}}
+{{< q >}}
 <p>Junks are made with the bottom part being built about two palmos above the water and is of planks fastened with wooden pegs, which are very well made. Above that they are entirely made of very large bamboos.</p>
 <cite>Pigafetta</cite>
 {{< /q >}}
