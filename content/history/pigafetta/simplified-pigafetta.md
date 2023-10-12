@@ -6,11 +6,6 @@ weight: 2
 image: /photos/medieval/magellan.jpg
 description: "We simplify Pigafetta's accounts to make historical facts easier to understand"
 icon: /icons/sun.png
-aliases:
-  /maharlika/history/simplified-pigafetta
-  /maharlika/articles/simplified-pigafetta/
-  /articles/simplified-pigafetta/
-  /articles/history/simplified-pigafetta/
 ---
 
 
@@ -67,6 +62,8 @@ At dawn on Saturday, March 16 1521, we came upon Samar island 300 leagues from L
 - They had nothing else then, but made us signs with their hands that they would bring rice, coconuts, and other food within 4 days.
 
 
+### Coconuts
+
 Coconuts are the fruit of the palm tree.
 
 - Just as we have bread, wine, oil, and milk, so those people get everything from that tree.
@@ -97,6 +94,9 @@ Their own island was Sulu, not very large. They were very pleasant and conversab
 - He had some mortars fired for them, whereat they showed great fear and tried to jump out of the ship.
 - They made signs to us that those spices grew where we were going.
 - When they were about to retire, they took their leave very gracefully and neatly, saying that they would return according to their promise.
+
+
+## Homonhon
 
 The island where we were is called **Homonhon**
 - We found there two springs of the clearest water.
@@ -312,4 +312,3 @@ Those people are heathens and go naked and painted.
 - It lies in a latitude of nine and two-thirds degrees toward the Arctic Pole, and in a longitude of 162 degrees. 
 - It is 25 leagues from the Acquada, and is called Mazawa.
 - We remained there 7 days
-

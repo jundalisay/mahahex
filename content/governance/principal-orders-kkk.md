@@ -6,9 +6,7 @@ image: /graphics/kkk.jpg
 description: "The Demands of the KKK in 1892 were mostly economic in nature"
 author: Juan
 icon: /icons/sun.png
-aliases:
-  /articles/principal-orders-kkk/
-  /articles/governance/principal-orders-kkk/
+linkTitle: Katipunan
 ---
 
 > This is a simplified version of the Principal Orders of the KKK (Dakilang Kautusan)

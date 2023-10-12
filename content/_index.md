@@ -4,7 +4,7 @@ image : "/graphics/flag.png"
 heading : "An advocacy to change the name, culture, and socio-economics of the Philippines into Maharlika"
 youtube: PjQjps9DTXw
 
-sub: Maharlika!
+# sub: 
 cards:
   items:
     - icon : "/icons/sun.png"
@@ -19,29 +19,28 @@ cards:
 
 tricon1:
   heading : ""
-  title : "Everything isAdvocacy and History"
-  # sub : "The analog universe streams in real-definition to create reality"
+  title : "Advocacy and History"
+  sub : "The analog universe streams in real-definition to create reality"
   # youtube: dc4VNkfqs1s
   # icon : "/icons/sp.png"
-  # link: "/superphysics/principles"
   items:
     - title: "What is Maharlika?"
-      url: "/maharlika/history/meanings-maharlika"
+      url: "/history/meanings-maharlika"
       sub: "A small country where great things come from"
-      img: ""
+      img: "/photos/medieval/lapu.jpg"
     - title: "What is Maharlikanism?"
-      url: "/maharlika/advocacy/maharlikanism"
-      img: 
+      url: "/advocacy/maharlikanism"
+      img: "/photos/handshake.jpg"
       sub: "A plan bring back the country to its true state"
     - title: "What are Constitutional Virtues?"
-      url: "/social/supersociology/solutions/constitutional-virtues/"
-      img: 
+      url: "https://superphysics.org/social/supersociology/solutions/constitutional-virtues/"
+      img: "/photos/psych/heart.jpg"
       sub: "The foundations of civilization"
 
 tricon2:
   heading : ""
-  title : "Politics and Economics"
-  # sub : "Based on Descartes and the five layers of the ancient Greek, Hindus, and Chinese"
+  title : "Politics and Law"
+  sub : "Philippines versus Maharlika"
   # youtube: 3l9J6tH4iD0
   # icon : "/icons/spmat.png"
   # link: "/material/principles"
@@ -50,54 +49,69 @@ tricon2:
       url: "/metaphysics/marcos-aquino-rivalry"
       img: "/photos/coryv.jpg"
       sub : "Conservative vs Liberal"
-    # - title : "How Maharlika Dealt with Climate Change"
-    #   url: "/infrastructure/climate-change" 
-    #   img: "/photos/flood.jpg"
-    #   sub : "By Prediction and Mitigation"  
-    # - title: "How Did Colonizers Get a Foothold?"
-    #   url: "/maharlika/history/colonialism"
-    #   sub: "How Divide and Conquer Works"
-    # - title: "Why is Democracy Bad?"
-    #   url: "/maharlika/metaphysics/democracy-is-bad"
-    #   sub: "Maharlika was already Democratic"
-    # - title: "The Social Cycles of Maharlika"
-    #   url: "/maharlika/metaphysics/maharlika-social-cycles"
-    #   sub: "The Fourth Year of Westernized Maharlika"
+    - title : "Why Federalism?"
+      url: "/governance/federalism" 
+      img: "/graphics/bayanihan.jpg"
+      sub : "Crisis-Resistant"  
+    - title: "How Did Colonizers Get a Foothold?"
+      url: "/maharlika/history/colonialism"
+      img: "/photos/medieval/magellan.jpg"
+      sub: "How Divide and Conquer Works"
+    - title: "Why is Democracy Bad?"
+      url: "/maharlika/metaphysics/democracy-is-bad"
+      img: "/photos/psych/freedom.jpg"      
+      sub: "Maharlika was already Democratic"
 
 tricon3:
+  # heading : "The Soul of Society"
+  title : "Economics"
+  sub : "Fellow-Feeling Instead of Selfish-Interest"
+  # youtube: AfByl9Mywi4
+  # icon : "/icons/spsoc.png"  
+  items:
+    - title : "Maharlika 2050"
+      url: "/economics/maharlika-2050" 
+      img: "/graphics/econ/eq.jpg"
+      sub : "Transition to an Advanced Country"
+    - title : "The Moneyless Bayanihan Economy"
+      url: "/economics/barter" 
+      img: "/graphics/bayanihan.jpg"
+      sub : "Crisis-Resistant"
+    - title : "The Fourth Branch of Government"
+      url: "/governance/fourth-branch-government" 
+      img: "/photos/balancerock.jpg"
+      sub : "The Resources Department"      
+    - title : "Why the Philippines is Poor"
+      url: "/metaphysics/poor-philippines" 
+      img: "/photos/social/poverty.jpg"
+      sub : "How Low Morals Causes Chronic Poverty"  
+
+
+tricon4:
   heading : ""
   title : "Culture"
-  sub : "Based on the dynamics of the sentient energy"
+  sub : "Truly Asian"
   # youtube: Y6YKmtqJak4
   # icon : "/icons/spmed.png"
   # link: "/medical/principles"
   items:
-    - title : "The Marcos-Aquino Rivalry"
-      url: "/metaphysics/marcos-aquino-rivalry"
-      img: "/photos/coryv.jpg"
-      sub : "Conservative vs Liberal"
+    - title: "The Social Cycles of Maharlika"
+      url: "/maharlika/metaphysics/maharlika-social-cycles"
+      sub: "The Fourth Year of Westernized Maharlika"
+      img: "/graphics/social/cycles.png"
     - title : "How Maharlika Dealt with Climate Change"
       url: "/infrastructure/climate-change" 
       img: "/photos/flood.jpg"
       sub : "By Prediction and Mitigation"  
+    - title : "War on Adobo"
+      url: "/culture/war-adobo" 
+      img: "/photos/food/adobopork.jpg"
+      sub : "Maharlikan Food versus Philippine Food" 
+    - title : "Bayong Ball"
+      url: "/culture/war-adobo" 
+      img: "/photos/basket.jpg"
+      sub : "Basketball for short people"
 
-
-tricon4:
-  heading : "The Soul of Society"
-  title : "Laws"
-  # sub : "Fellow-Feeling Instead of Selfish-Interest"
-  # youtube: AfByl9Mywi4
-  # icon : "/icons/spsoc.png"  
-  items:
-    - title: "How Did Colonizers Get a Foothold?"
-      url: "/maharlika/history/colonialism"
-      sub: "How Divide and Conquer Works"
-    - title: "Why is Democracy Bad?"
-      url: "/maharlika/metaphysics/democracy-is-bad"
-      sub: "Maharlika was already Democratic"
-    - title: "The Social Cycles of Maharlika"
-      url: "/maharlika/metaphysics/maharlika-social-cycles"
-      sub: "The Fourth Year of Westernized Maharlika"
 
 ---
 

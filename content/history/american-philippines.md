@@ -2,6 +2,7 @@
 title: "Why America should not have colonized the Philippines"
 description: "America caused the Philippines to have its current set of problems such as corruption, materialism, and drugs"
 date: 2020-07-10
+linkTitle: American Colonization
 image: /photos/medieval/indians.jpg
 heading: "Could it be stopped?"
 author: Juan
@@ -10,8 +11,6 @@ icon: /icons/sun.png
 
 
 The Atlantic wrote an article about [General Pershing in the Philippines](https://www.theatlantic.com/international/archive/2017/08/pershing-trump-terrorism/537300/) as part of the American pacification campaign. 
-
-
 
 
 The American system works for civilized humans that have transplanted themselves into uninhabited, uncivilized land, such as North America. It would be the best system for Australia, Alaska, Antarctica, Greenland, and Mars (being done by the American named Elon Musk).

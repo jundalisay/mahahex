@@ -6,9 +6,8 @@ date: 2021-07-07
 image: /photos/medieval/lapu.jpg
 author: Juan
 icon: /icons/sun.png
-aliases:
-  /advocacy/maharlikanism/
 ---
+
 
 Maharlikanism is a set of solutions to overhaul, either gradually or totally, Philippines into Maharlika. 
 
@@ -27,9 +26,8 @@ The solutions are derived from two groups:
 According to Socrates, the problems in societies are largely due to humans going beyond the natural balance of things. For example, extreme wealth and poverty can lead to a society's ruin:
 
 
-{{< q a="soc" >}}
+{{< q a="Socrates" c="Republic Book 4" >}}
 <p>Under the influence either of poverty or of wealth, workers can degenerate. Here, then, is a discovery of new evils of wealth and poverty, against which the guardians will have to watch, or they will creep into the city unobserved. Wealth is the parent of luxury and indolence. Poverty is the parent of meanness and viciousness. Both are parents of discontent.</p>
-<cite>Socrates, Republic Book 4</cite>
 {{< /q >}}
 
 
@@ -48,9 +46,8 @@ His solution was a federalized system of city-states that would connect to each 
 
 
 
-{{< q a="soc" >}}
+{{< q a="Socrates" c="The Republic by Plato Simplified, Book 2" >}}
 <p>The true creator of a State is necessity. The first and greatest of necessities is food, which is the condition of life and existence. The second is a dwelling. The third clothing and the like. Now let us see how our city will be able to supply this great demand.. We must then enlarge our borders, because the original healthy State is not enough.</p>
-<cite>Socrates, The Simple Republic by Plato, Book 2</cite>
 {{< /q >}}
 
 
@@ -58,7 +55,7 @@ His solution was a federalized system of city-states that would connect to each 
 This network would not be bound by money since it can be amassed and cause crises. Instead, the basis will be economic social contracts:  
 <!-- , which now manifests as the US dollar acting as international reserve currency. -->
 
-{{< q a="soc" >}}
+{{< q a="Socrates" >}}
 <p>The men of business stoop as they walk. They pretend not to see those whom they have already ruined. They insert their sting—their money—into someone else who is not on his guard against them. They recover the parent sum many times over multiplied into a family of children. And so they make drone and pauper to abound in the State. The evil blazes up like a fire. They will not extinguish it by restricting a man's use of his own property, nor by letting every one enter into <b>voluntary contracts</b> at his own risk. This will compel the citizens to look to their characters.</p>
 {{< /q >}}
 
@@ -68,9 +65,8 @@ This network would not be bound by money since it can be amassed and cause crise
 
 The social contracts will then make people look into their own behaviors and find differences more than similarities. To solve this disparity, each city-state defines its own behavioral template by enumerating the fundamental virtues that guide its citizens. We can call these as **the constitutional virtues**:
 
-{{< q a="soc" >}}
+{{< q a="Socrates" c="The Republic by Plato Simplified, Book 8" >}}
 <p>Those virtues make their abode in the minds of men who are dear to the gods, and are their best guardians and sentinels.</p>
-<cite>Socrates, The Simple Republic by Plato, Book 8</cite>
 {{< /q >}}
 
 

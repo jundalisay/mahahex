@@ -6,10 +6,6 @@ heading: "3.5 years old"
 date: 2020-07-10
 author: Juan
 icon: /icons/sun.png
-aliases:
-  /maharlika/articles/maharlika-social-cycles/
-  /articles/maharlika-social-cycles/
-  /articles/metaphysics/maharlika-social-cycles/
 ---
 
 
@@ -17,16 +13,14 @@ According to Socrates, all societies have [alternating seasons](/social/supersoc
 
 {{< img src="/graphics/social/cycles.png" alt="Cycles Plato" >}}
 
-
 - A democracy is dominated by workers and freedom-loving people. Its positive aspect is social justice, while its negative is chaos and mob rule. This chaos leads people to want order, paving the way for tyranny
 - A tyranny is dominated by warriors and generals. Its positive aspect is peace and order, while its negative is abuse and corruption. This abuse leads people to want wisdom, paving the way for aristocrats
 - An aristocracy is dominated by intellectuals and thinkers. Its positive aspect is wisdom, and scientific and cultural advancement, while its negative is dogma and stagnation. This stagnation leads people to want material wealth, paving the way for oligarchs
 - An oligarchy is dominated by traders, speculators, and businessmen. Its positive is progress, its negative is inequality and environmental destruction. This injustice leads people to want justice, paving the way for democracy
 
 
-{{< q a="soc" >}}
-<p>How does oligarchy change into democracy? Is it wise or not?.. Democracy grandly tramples on the fine principles which we laid down at the foundation of the city, through her forgiving spirit, and the 'don't care' about trifles. She never makes the pursuits which make a statesman.</p>
-<cite>Socrates, Republic, Book 8</cite>
+{{< q a="Socrates" c="Republic, Book 8" >}}
+How does oligarchy change into democracy? Is it wise or not?.. Democracy grandly tramples on the fine principles which we laid down at the foundation of the city, through her forgiving spirit, and the 'don't care' about trifles. She never makes the pursuits which make a statesman.
 {{< /q >}}
 
 We use this model to expose the current cycle of any society, based on the outcome of events. For example, a successful popular protest that topples a government indicates that the country is in a democractic phase. A successful military crackdown of that protest, on the contrary, will indicate that the society is in a tyranny phase.

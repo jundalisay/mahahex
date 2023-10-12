@@ -40,7 +40,7 @@ The meaty and oily Spanish influence leads to heart problems, while the salty Ch
 
 The worst food of these are Pork Adobo and Lechon which are full of heavy fats and oils. These are not natural to Maharlikan bodies or islander bodies which are used to seafood, vegetables, and fowl-meat. 
 
-{{< q a="soc" >}}
+{{< q a="Socrates" >}}
 <p>Polydamas, the pancratiast, is stronger than us. He finds the beef conducive to his bodily strength. Does that mean that beef is equally good and just for us who are weaker?</p>
 <cite>The Republic, Book 1</cite>
 {{< /q >}}
@@ -110,7 +110,7 @@ Other examples of Maharlikan food are:
 - Paksiw, Kinilaw (Vinegar again)
 - Inihaw (Roasted)
 
-{{< q a="soc" >}}
+{{< q a="Socrates" >}}
 After a half-hour a platter of roast fish cut in pieces was brought in, and ginger freshly gathered, and wine.
 <cite>Pigafetta</cite>
 {{< /q >}}

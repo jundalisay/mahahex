@@ -3,13 +3,12 @@ title: "The Metaphysics of the Marcos-Aquino Rivalry"
 heading: "Caused by the Economic Freedom by Laurel-Langley"
 date: 2021-10-11
 description: "The Marcos-Aquino Rivalry is just the liberal vs conservative version of politics"
+linkTitle: Marcos-Aquino Rivalry
 image: /photos/coryv.jpg
 author: Juan
 icon: /icons/sun.png
-aliases:
-  /maharlika/articles/metaphysics/marcos-aquino-rivalry/
-  /articles/metaphysics/marcos-aquino-rivalry/
 ---
+
 
 Last week, the Philippine media was alarmed at the candidacy of Bongbong Marcos for President for 2022. 
 
@@ -87,7 +86,7 @@ By plotting the shifts of leadership all the way from 1572 (when leadership swit
 
 During that typhoon, the country was led by liberal Noynoy Aquino who was impotent in disaster response, just as the previous government was impotent in dealing with typhoon Ondoy and the Oakwood mutiny. This exposes the main problem with liberalism which is **weak governance**:
 
-{{< q a="soc" >}}
+{{< q a="Socrates" >}}
 <p>In this [Democratic] State, you do not need to govern if you don't want to. No law forbids you to hold office. You do not need to go war if others do not want to go to war. Isn't this supremely delightful?</p>
 <cite>The Simple Republic by Plato, Book 8</cite>
 {{< /q >}}

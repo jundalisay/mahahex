@@ -3,6 +3,7 @@ title: "Why Andres Bonifacio Should Be The National Hero"
 heading: "He did most of the work required for a revolution"
 description: "Currently, Jose Rizal is the national hero. But morally, it would be better for Andres Bonifacio to be the hero."
 date: 2020-04-06
+linkTitle: Bonifacio Hero
 image: /graphics/mh/boni.jpg
 author: Juan
 icon: /icons/sun.png
@@ -35,7 +36,7 @@ Moreover, Bonifacio really wanted a name change for the Philippines:
 
 Aguinaldo was an opportunist landlord who used his wealth and influence to steal the leadership for his own interests. He used Bonifacio and Luna to gain victories and then killed them when they became threats.
 
-Bonifacio's mistake was he did not form a treaty with the Aguinaldo to set territorial boundaries for their own governments, since civil wars often happen with revolutionary wars. The lumads and the Moros fight each other a lot even before the Spanish came. Their solution was to set physical boundaries.
+Bonifacio's mistake was he did not form a treaty with the Aguinaldo to set territorial boundaries for their own governments, since civil wars often happen with revolutionary wars. The lumads and the Moros fought each other a lot even before the Spanish came. Their solution was to set physical boundaries.
 
 The disunity during revolutionary struggles is actually common:
 - The American revolution split America into rebels and loyalists
@@ -50,9 +51,8 @@ In a nutshell, pro-Spanish/American Philippines has Jose Rizal as its hero. Thes
 
 Rizal did not believe in the capabilities of the masses at all:
 
-{{< q a="Rizal" >}}
-<p>If the Philippines is to stay under Spain, its politics must change as demanded by Filipinos. This transformation will be violent and fatal if it starts from the masses, but peaceful and fruitful if it starts from the upper classes.</p>
-<cite>Part 3, Filipinas Dentro De Cien Años</cite>
+{{< q a="Rizal" c="Part 3, Filipinas Dentro De Cien Años" >}}
+If the Philippines is to stay under Spain, its politics must change as demanded by Filipinos. This transformation will be violent and fatal if it starts from the masses, but peaceful and fruitful if it starts from the upper classes.
 {{< /q >}}
 
 
@@ -68,4 +68,4 @@ Tagalogs or Maharlikans make their own policies for the benefit of its own peopl
 - Incompetent government officials
 - Abuses of authority
 
-The above are the list of complaints of Katagalugans against the Spanish, as written in 'Mga daklang cautosan' of January 1892.
+The above were among the list of complaints of Katagalugans against the Spanish, as written in 'Mga daklang cautosan' of January 1892.

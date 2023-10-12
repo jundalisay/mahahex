@@ -1,3 +1,16 @@
+        <br class="mt-1.5 text-sm" />
+        <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">{{ .Title }}</h1>
+        zz
+        <div class="mb-16"></div>
+        <div class="content">
+          {{ .Content }}
+        </div>
+        <div class="mt-16"></div>
+        {{ partial "components/comments.html" . }}
+      </main>
+
+
+
 <!--   bannermain: "/lapu.jpg"
   content : "An advocacy to change the name, culture, and socio-economics of the Philippines into Maharlika"
   posttitle: "Three Pillars of Maharlika"  

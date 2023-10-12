@@ -7,13 +7,16 @@ image: "/covers/1810.jpg"
 ---
 
 
-Local markets.
+## Local markets
 
 Besides the traffic founded on ordinary consumption, the necessity of obtaining assortments of home-manufactured as well as imported goods, in order to supply the markets, known by the name of tianguis, and which are held weekly in almost every town, there is another species of speculation, peculiar to the rich natives and Sangley mestizos, an industrious race, and also possessed of the largest portion of the specie. 
 
-This consists in the anticipated purchase of the crops of indigo, sugar, rice, etc., with a view to [379]fix their own prices on the produce thus contracted for, when resold to the second hand. A propensity to barter and traffic, in all kinds of ways, is indeed universal among the natives, and as the principal springs which urge on internal circulation are already in motion, nothing more is wanting than at once to destroy the obstacles previously pointed out, and encourage the extension of luxury and comforts, in order that, by the number of the people’s wants being increased, as well as the means of supplying them, the force and velocity of action may in the same proportion be augmented.
+This consists in the anticipated purchase of the crops of indigo, sugar, rice, etc., with a view to [379]fix their own prices on the produce thus contracted for, when resold to the second hand. 
 
-External commerce
+A propensity to barter and traffic, in all kinds of ways, is indeed universal among the natives, and as the principal springs which urge on internal circulation are already in motion, nothing more is wanting than at once to destroy the obstacles previously pointed out, and encourage the extension of luxury and comforts, in order that, by the number of the people’s wants being increased, as well as the means of supplying them, the force and velocity of action may in the same proportion be augmented.
+
+
+## External commerce
 
 Under “External Commerce” generally are comprised the relations the Philippine Islands keep up with other nations, with the Spanish possessions in America, and with the mother country; or, in other words, the sum total of their imports and exports.
 
@@ -74,26 +77,51 @@ The assemblage of pious legacies, temporalities, and other funds and property pl
 
 In the great exigencies of the Royal Treasury, experienced during the last years of the administration of Sr. Soler, the royal decree of Consolidación was extended to the Philippine Islands, under the pretext of guarding the funds belonging to public charities and religious endowments ... sea-risks, the income of which, when secured on good mortgages, does not generally exceed five per cent, many in Spain not yielding above four; but the remarkable difference between this plan and the one above described, together with various and other weighty reasons alleged by the administrators, caused the dreaded effect of this new regulation to be suspended, and whilst the head committee of Manila were consulting their doubts and requesting fresh instructions from the court at home, orders came out not to make any alteration in measures relating to this description of property.
 
+
 ## Easy capital but lessened profits
 
-Accustomed, in their limited calculations, to identify the resources, offered by the funds belonging to this class of establishments, with the very existence of the colony, the needy merchants [385]easily confound their personal with the general interest; and few stop to consider that the identical means of carrying on trade, without any capital of their own, although they have accidentally enriched a small number of persons, eventually have absorbed the principal profits, and possibly been the chief cause of the unflourishing state of the colony at large. Without fearing the charge of rashness, it may, in fact, be asserted, that if these charities and pious endowments had never existed, public prosperity in the Philippine Islands would, as in other parts, have been the immediate effect of the united efforts of the individual members of the community and of the experience acquired in the constant prosecution of the same object. 
+Accustomed, in their limited calculations, to identify the resources, offered by the funds belonging to this class of establishments, with the very existence of the colony, the needy merchants [385]easily confound their personal with the general interest; 
+
+
+Few stop to consider that the identical means of carrying on trade, without any capital of their own, although they have accidentally enriched a small number of persons, eventually have absorbed the principal profits, and possibly been the chief cause of the unflourishing state of the colony at large. Without fearing the charge of rashness, it may, in fact, be asserted, that if these charities and pious endowments had never existed, public prosperity in the Philippine Islands would, as in other parts, have been the immediate effect of the united efforts of the individual members of the community and of the experience acquired in the constant prosecution of the same object. 
 
 As, however, a progress of this kind, although certain, must necessarily have been at first extremely slow, and as, on the other hand, the preference given to mercantile operations undertaken with the funds belonging to public charities, has its origin in the assemblage of vices so remarkable in the very organization of the body of Philippine merchants, any new measure on this subject might be deemed inconsistent, that at once deprived them of the use of resources on which they had been accustomed to rely, without removing those other defects which excuse, if not encourage, the continuation of the present system. 
 
-Without, therefore, appealing to violent remedies, it is to be hoped that, in order to render plans of reform effectual, it will be sufficient, under more propitious circumstances, to see property brought from other countries to these Islands, as well as persons coming to settle in them, capable of managing it with that intelligence and economy required by trade. The competition of those who speculate at random would then cease, or what is the same, as money obtained at a premium could not then be laid out with the same advantages by the merchants as if it was their own, it will be necessary to renounce the fallacious profits held out by the public charities, till at least they are placed on a level with existing circumstances, and brought in to be of real service to the honorable planter and laborious merchant, in their accidental exigencies, ceasing to be, as hitherto, the indirect cause of idleness, dissipation, and the ruin of an infinite number of families.
+Without, therefore, appealing to violent remedies, it is to be hoped that, in order to render plans of reform effectual, it will be sufficient, under more propitious circumstances, to see property brought from other countries to these Islands, as well as persons coming to settle in them, capable of managing it with that intelligence and economy required by trade. 
 
-Mercantile shipping.
+The competition of those who speculate at random would then cease, or what is the same, as money obtained at a premium could not then be laid out with the same advantages by the merchants as if it was their own, it will be necessary to renounce the fallacious profits held out by the public charities, till at least they are placed on a level with existing circumstances, and brought in to be of real service to the honorable planter and laborious merchant, in their accidental exigencies, ceasing to be, as hitherto, the indirect cause of idleness, dissipation, and the ruin of an infinite number of families.
 
-The vessels which the district magistrates of the provinces employ in carrying on their trade with the capital and those belonging to some of the richer merchants, together with such as are owned by the natives and mestizos, on an approximate calculation, amount to twelve thousand tons, including ships, brigs, schooners, galleys, barges, etc. For the want of better data, this estimate is founded only on reasonable conjecture, aided by the advice of experienced [386]persons, for although the greatest part of these vessels are built by the natives in the neighborhood of their own towns, no register is kept of their number and dimensions, nor do they carry with them the usual certificates. Those belonging to the merchants, that is, ships and brigs of a certain size, have already begun to frequent the ports of China, Java, the coast of Coromandel, Bengal, and the Isle of France, availing themselves of the lucrative freights which formerly enriched and encouraged foreign shipping. 
+
+## Mercantile shipping
+
+The vessels which the district magistrates of the provinces employ in carrying on their trade with the capital and those belonging to some of the richer merchants, together with such as are owned by the natives and mestizos, on an approximate calculation, amount to twelve thousand tons, including ships, brigs, schooners, galleys, barges, etc. 
+
+For the want of better data, this estimate is founded only on reasonable conjecture, aided by the advice of experienced [386]persons, for although the greatest part of these vessels are built by the natives in the neighborhood of their own towns, no register is kept of their number and dimensions, nor do they carry with them the usual certificates.
+
+Those belonging to the merchants, that is, ships and brigs of a certain size, have already begun to frequent the ports of China, Java, the coast of Coromandel, Bengal, and the Isle of France, availing themselves of the lucrative freights which formerly enriched and encouraged foreign shipping. 
 
 The other class of vessels are perfectly adequate to the coasting trade. But they cannot be applied to larger enterprises because of their weakness and small capacity. 
 
-The seamen are not apprenticed, or "matriculated". but their frequent crossing from island to island, their familiarity with regional tempests, voyages to various parts of America, and the occupation of fishing followed by the inhabitants of the coast, serve to train up a large body of dexterous and able mariners who at all times can be had, without any compulsion, to complete the crews.
+The seamen are not apprenticed, or "matriculated". The following trains up many dexterous and able mariners:
+- their frequent crossing from island to island
+- their familiarity with regional tempests
+- voyages to various parts of America
+- the occupation of fishing 
+
+These are always available, without any compulsion, to complete the crews.
+
 
 ## Need of nautical school
 
-The lack of a public school for the teaching of navigation, is, however, sensibly felt, as well as great inconvenience from the scarcity of persons capable of being trusted with the command of vessels, and the ignorance that prevails of the waters of this dangerous Archipelago. 
+Sensibly felt are:
+- the lack of a public school for the teaching of navigation
+- the great inconvenience from the scarcity of persons capable of being trusted with the command of vessels
+- the ignorance of the waters of this dangerous Archipelago. 
 
-Repeated royal orders have been sent over for the board of trade to proceed to the institution of so useful an establishment, and in the meantime, a medium has been resorted to in order to supply the deficiency, by allowing the free admission of foreign mates, provided they exhibit proofs of their acquaintance with navigation, and profess the Catholic worship. 
+Repeated royal orders have been sent over for the board of trade to proceed to the institution of so useful an establishment.
 
-Shipowners nevertheless experience great difficulties, particularly at times when the Acapulco ship is fitting out, for although she is considered as a vessel of war, and commanded by officers of the royal navy, the plan of her equipment is so singular, that in addition, she requires the extra aid of one chief mate, and three under ones.
+In the meantime, a medium has been resorted to in order to supply the deficiency, by allowing the free admission of foreign mates, provided they exhibit proofs of their acquaintance with navigation, and profess the Catholic worship. 
+
+Shipowners nevertheless experience great difficulties, particularly at times when the Acapulco ship is fitting out. 
+
+She is considered as a vessel of war, and commanded by officers of the royal navy. But the plan of her equipment is so singular, that in addition, she requires the extra aid of one chief mate, and three under ones.

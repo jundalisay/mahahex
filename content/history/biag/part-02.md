@@ -1,5 +1,5 @@
 ---
-heading: Part 1
+heading: Part 2
 title: "Lam-ang's Birth"
 # heading: "Of Maharlika and the Philippines"
 image: "/graphics/mh/lamang.jpg"
