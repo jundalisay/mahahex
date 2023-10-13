@@ -10,12 +10,16 @@ cards:
     - icon : "/icons/sun.png"
       title: Constitutional Virtues
       sub : "A New, Systemic Moral Foundation"
+      url: https://superphysics.org/social/supersociology/solutions/constitutional-virtues/
     - icon : "/icons/stars.png"
       title : Federalism with Bicameral Parliament
       sub : "Democracy with a Focus"
+      url: "/governance/federalism"
     - icon : "/icons/help.png"
       title : "Bayanihan Economy"
       sub : "Economic Growth without Crisis"
+      url: "/economics/barter"
+
 
 tricon1:
   heading : ""
@@ -36,6 +40,11 @@ tricon1:
       url: "https://superphysics.org/social/supersociology/solutions/constitutional-virtues/"
       img: "/photos/psych/heart.jpg"
       sub: "The foundations of civilization"
+    - img : "/photos/objects/galleon.jpg"
+      title : "Pigafetta"
+      sub : "What did the Spanish say about Maharlika?"
+      url: "/history/pigafetta/simplified-pigafetta"
+
 
 tricon2:
   heading : ""
@@ -51,8 +60,8 @@ tricon2:
       sub : "Conservative vs Liberal"
     - title : "Why Federalism?"
       url: "/governance/federalism" 
-      img: "/graphics/bayanihan.jpg"
-      sub : "Crisis-Resistant"  
+      img: "/photos/medieval/maharlika.jpg"
+      sub : "Maharlika was a confederation of semi-independent states"  
     - title: "How Did Colonizers Get a Foothold?"
       url: "/maharlika/history/colonialism"
       img: "/photos/medieval/magellan.jpg"
@@ -73,10 +82,6 @@ tricon3:
       url: "/economics/maharlika-2050" 
       img: "/graphics/econ/eq.jpg"
       sub : "Transition to an Advanced Country"
-    - title : "The Moneyless Bayanihan Economy"
-      url: "/economics/barter" 
-      img: "/graphics/bayanihan.jpg"
-      sub : "Crisis-Resistant"
     - title : "The Fourth Branch of Government"
       url: "/governance/fourth-branch-government" 
       img: "/photos/balancerock.jpg"
