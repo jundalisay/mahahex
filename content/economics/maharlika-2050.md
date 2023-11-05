@@ -12,7 +12,6 @@ aliases:
 ---
 
 
-
 Current Cycle | Years per Cycle | Social Age
 --- | --- | ---
 Positive Warrior  | 12 | 5.5
@@ -23,7 +22,7 @@ The [previous post](/maharlika/economics/dutertenomics) explained the problem wi
 
 ## Society Subsidizing the Rich
 
-The main flaw of that plan was that it catered to the merchant class of society and neglected [the other 3 classes](/social/supersociology/principles/part-1/chapter-05/). That class is made up of business and monied interests.
+The main flaw of that plan was that it catered to the trader class of society and neglected [the other 3 classes](https://www.superphysics.org/social/supersociology/principles/part-1/chapter-05/). That class is made up of business and monied interests.
 
 
 Class | Socratic Name | Hindu Name | Example
@@ -38,19 +37,17 @@ A society needs all 4 classes to be in good shape just as a human body needs all
 
 With the 3 classes weakened, the Philippine economy easily collapsed after pandemic struck. To get back on its feet, it had to incur a huge Php 12 trillion debt.
 
-The debt is in money which is the expertise of the monied interests. **Thus, the solution to the problem created by the merchant class is also facilitated by that same merchant class.** 
+The debt is in money which is the expertise of the monied interests. **Thus, the solution to the problem created by the trader class is also facilitated by that same trader class.** 
 
-It would be like getting thieves to be in charge of security in your estate. They would allow expert burglaries which can only be solved by themselves to keep themselves employed and relevant while gaining commissions from those burglars. This leads to a double revenue stream to help keep them in power for a very long time until someone can connect the dots and expose their scam.   
+It would be like getting thieves to be in charge of security in your estate. They would allow expert burglaries which can only be solved by themselves to keep themselves employed and relevant while gaining commissions from those burglars. This leads to a double revenue stream to help keep them in power for a very long time until someone can connect the dots and expose their scam.
 
 Such a genius scheme in macroeconomics really began in the 1970s after the Nixon shock. Billionaire investor Jeremy Grantham explains:
 
 {{< youtube hIKG2YpFoFQ >}}
 
+The profit maximization doctrine of the trader class stops growth. And so the traders lobbies for public debt, as Keynesian "deficit spending". This is really paid for by the entire society. 
 
-
-The profit maximization doctrine of the merchant class stops growth. And so the merchant class lobbies for public debt, as Keynesian "deficit spending". This is really paid for by the entire society. 
-
-Thus, the public subsidizes the lavish lifestyle of the overgrown merchant class.
+Thus, the public subsidizes the lavish lifestyle of the traders.
 
 {{< q a="smith" >}}
 The middle and upper classes, if they understand their own interest, should always oppose all taxes on necessities and direct taxes on the wages of labour. The final payment of such taxes all fall on themselves, with a big overcharge.
@@ -69,19 +66,13 @@ Debt transfers the present huge burden and spreads it to the future in smaller c
 
 
 {{< q a="smith" >}}
-This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come.
+This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation.
 
-However, it raises more money than the old practice of anticipation.
-<br><br>
 When men became familiar with funding, it became universally preferred to anticipation during great state exigencies.
 
 Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
 <cite>The Wealth of Nations Simplified, Book 5, Chapter 3</cite>
 {{< /q >}}
-
-
-
-
 
 Here, we explain the proper solution as **Maharlika 2050** which puts the merchant class back in line with the other classes, specifically by:
 - overhauling Filipino Catholic-Islamic mentality into Maharlikan Science-Math thinking
@@ -104,9 +95,9 @@ These 2 phenomena stifle the natives (populist class) who end up as:
 This is very different from advanced countries which are the employers of those OFWs and call center agents. 
 
 
-{{< q >}}
+{{< q a="Jagor" >}}
 The populations whom the Spaniards have conyerted to Catholicism have lost all originality, all sense of nationality.
-<cite>Jagor, Travels in the Philippines Simplified 1869</cite>
+<cite>Travels in the Philippines Simplified 1869</cite>
 {{< /q >}}
 
 
@@ -139,9 +130,7 @@ With this new identity, the people stop being Filipinos or subjects or employees
 
 {{<img src="/photos/medieval/lapu.jpg" alt="Lapu Lapu" cap="Lapu Lapu is the first Western-recorded person to exhibit Maharlikan virtues. Datu Puti and the Negrito king who welcomes him are also pre-colonial examples." >}}
 
-These virtues can lead to a new culture and rules that can replace the morals of Spanish Catholicism and American liberalism. They will be the template for policy-changes that can be implemented until the 2050's when our model predicts a big social change to happen. 
-
-
+These virtues can lead to a new culture and rules that can replace the morals of Spanish Catholicism and American liberalism. They will be the template for policy-changes that can be implemented until the 2050's when our model predicts a big social change to happen.
 
 
 ### 1. Open Religious Policy (Truth)
